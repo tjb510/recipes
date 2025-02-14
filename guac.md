@@ -2,7 +2,7 @@ guac recipe
 - avocado
 - onions
 - cilantro
-- lemon
+- lime
 - hotsauce
 - salt and pepper
  
